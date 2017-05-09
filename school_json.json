@@ -1,0 +1,40 @@
+{
+  name:"ort",
+  classes: [
+	{
+		name:"A1",
+		students:[
+			{
+			name:"Ariela",
+			math=50,
+			assembly=95,
+			pysics=67,
+			},
+			{
+				name:"Ariela",
+				math=50,
+				assembly=95,
+				pysics=67,
+			},
+			{
+				name:"Ariela",
+				math=50,
+				assembly=95,
+				pysics=67,
+			},
+				{
+				name:"Ariela",
+				math=50,
+				assembly=95,
+				pysics=67,
+			},
+				{
+				name:"Ariela",
+				math=50,
+				assembly=95,
+				pysics=67,
+			}
+		]
+	}
+  ] 
+}
