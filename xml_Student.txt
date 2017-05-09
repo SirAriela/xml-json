@@ -1,0 +1,25 @@
+<Class name="a">
+  <Students>
+     <Student>
+	     <name>אריאלה</name>
+	     <grade name="English>90</grade>
+		 <grade name="Math>90</grade>
+		 <grade name="pysics>90</grade>
+		 <grade name="BIble>90</grade>
+	  </Student>
+	  <Student>
+	     <name>אריאלה</name>
+	     <grade name="English>90</grade>
+		 <grade name="Math>90</grade>
+		 <grade name="pysics>90</grade>
+		 <grade name="BIble>90</grade>
+	  </Student>
+	  <Student>
+	     <name>אריאלה</name>
+	     <grade name="English>90</grade>
+		 <grade name="Math>90</grade>
+		 <grade name="pysics>90</grade>
+		 <grade name="BIble>90</grade>
+	  </Student>
+  </Students>
+</Class>
